@@ -1,0 +1,67 @@
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\obj\Debug\SpeakerTest.Form1.resources
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\obj\Debug\SpeakerTest.Properties.Resources.resources
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\obj\Debug\SpeakerTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\irrKlang.NET.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\taglib-sharp.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\ikpMP3.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\SpeakerTest.exe
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\SpeakerTest.pdb
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\RemoteSpeaker.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\bin\Debug\RemoteSpeaker.pdb
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\obj\Debug\SpeakerTest.exe
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\SpeakerTest\obj\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.exe
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\irrKlang.NET.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\ikpMP3.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\SpeakerTest.exe
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\bin\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.Form1.resources
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.Properties.Resources.resources
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.csproj.GenerateResource.Cache
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.exe
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\ikpMP3.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\irrKlang.NET.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\SpeakerTest.exe
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\bin\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.Form1.resources
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.Properties.Resources.resources
+C:\Users\ugenlik\Desktop\SpeakerShare1\SpeakerTest\obj\Debug\SpeakerTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.exe
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.pdb
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\ikpMP3.dll
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\irrKlang.NET.dll
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\taglib-sharp.dll
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\SpeakerTest.exe
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\SpeakerTest.pdb
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\RemoteSpeaker.dll
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\bin\Debug\RemoteSpeaker.pdb
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.Form1.resources
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.IPDialog.resources
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.Properties.Resources.resources
+C:\Documents and Settings\Cenk\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.csproj.GenerateResource.Cache
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.exe
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\irrKlang.NET.dll
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\ikpMP3.dll
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\SpeakerTest.exe
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\SpeakerTest.pdb
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\bin\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.Form1.resources
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.IPDialog.resources
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.Properties.Resources.resources
+C:\Users\ugenlik\Desktop\ss\SpeakerTest\obj\Debug\SpeakerTest.csproj.GenerateResource.Cache

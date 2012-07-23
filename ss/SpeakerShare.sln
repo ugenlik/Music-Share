@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteSpeaker", "RemoteSpeaker\RemoteSpeaker.csproj", "{F28402C4-D551-4E9B-BA26-FCC95BF369C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speaker", "Speaker\Speaker.csproj", "{F24F32AA-F3C7-4720-B0CC-18104BC02D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakerTest", "SpeakerTest\SpeakerTest.csproj", "{3BCCD0C0-9D41-441E-9F7A-93856CC5AC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28402C4-D551-4E9B-BA26-FCC95BF369C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28402C4-D551-4E9B-BA26-FCC95BF369C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28402C4-D551-4E9B-BA26-FCC95BF369C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28402C4-D551-4E9B-BA26-FCC95BF369C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24F32AA-F3C7-4720-B0CC-18104BC02D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24F32AA-F3C7-4720-B0CC-18104BC02D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24F32AA-F3C7-4720-B0CC-18104BC02D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24F32AA-F3C7-4720-B0CC-18104BC02D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCCD0C0-9D41-441E-9F7A-93856CC5AC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCCD0C0-9D41-441E-9F7A-93856CC5AC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCCD0C0-9D41-441E-9F7A-93856CC5AC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCCD0C0-9D41-441E-9F7A-93856CC5AC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

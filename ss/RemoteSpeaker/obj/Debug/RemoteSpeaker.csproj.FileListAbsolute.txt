@@ -1,0 +1,40 @@
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\bin\Debug\irrKlang.NET.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\bin\Debug\ikpMP3.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\bin\Debug\RemoteSpeaker.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\bin\Debug\RemoteSpeaker.pdb
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\obj\Debug\RemoteSpeaker.dll
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\obj\Debug\RemoteSpeaker.pdb
+C:\Documents and Settings\Cenk\Desktop\SpeakerShare\RemoteSpeaker\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\bin\Debug\ikpMP3.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\bin\Debug\irrKlang.NET.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\bin\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\bin\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\obj\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Documents\My Dropbox\SpeakerShare1\RemoteSpeaker\obj\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\bin\Debug\ikpMP3.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\bin\Debug\irrKlang.NET.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\bin\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\bin\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\obj\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Desktop\SpeakerShare1\RemoteSpeaker\obj\Debug\RemoteSpeaker.pdb
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\bin\Debug\ikpMP3.dll
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\bin\Debug\irrKlang.NET.dll
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\bin\Debug\taglib-sharp.dll
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\bin\Debug\RemoteSpeaker.dll
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\bin\Debug\RemoteSpeaker.pdb
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\obj\Debug\RemoteSpeaker.dll
+C:\Documents and Settings\Cenk\Desktop\ss\RemoteSpeaker\obj\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\bin\Debug\ikpMP3.dll
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\bin\Debug\irrKlang.NET.dll
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\bin\Debug\taglib-sharp.dll
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\bin\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\bin\Debug\RemoteSpeaker.pdb
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\obj\Debug\RemoteSpeaker.dll
+C:\Users\ugenlik\Desktop\ss\RemoteSpeaker\obj\Debug\RemoteSpeaker.pdb
